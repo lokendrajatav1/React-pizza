@@ -1,0 +1,18 @@
+.container{
+  display: flex;
+  gap: 20px;
+ 
+  
+}
+.imgfood{
+  height: 9rem;
+  
+}
+.contentcontainer{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.count{
+  margin-top: auto;
+}
